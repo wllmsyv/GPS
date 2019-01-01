@@ -11,6 +11,8 @@
  * Checksum calculator: http://www.hhhh.org/wiml/proj/nmeaxor.html
  * 
  */
+ 
+ 
 #ifndef _GPS
 #define _GPS
 
