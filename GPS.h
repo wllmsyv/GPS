@@ -92,7 +92,7 @@ private:
   bool _new_position_ready;
 
   // Functions
-	void send_message(String);
+  void send_message(String);
   void clear_buffer(char*, uint8_t);
   void parse_gprmc(char*, uint8_t);
   bool message_valid(String, char *, uint8_t);
