@@ -1,5 +1,10 @@
 #include "GPS.h"
 
+
+
+/****************************************************
+//        Constructor
+****************************************************/
 GPS::GPS(void){
     buffer_index = 0;
   _new_position_ready = false;
